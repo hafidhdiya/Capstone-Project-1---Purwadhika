@@ -145,3 +145,6 @@ Program yang dibuat terdiri dari 7 menu utama, yaitu:
 
 
     **Note : Semua input sudah diproteksi apabila harus diisi integer maka akan ada notifikasi ketika tidak diisi dengan integer**
+
+
+Python version : 3.11.5
