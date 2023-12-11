@@ -3,9 +3,21 @@
 ### By Hafidh Diya Ulhaqi Dewantoro
 
 ## **DATABASE PASIEN RUMAH SAKIT**
+Sebagai database awal, saya mendefinisikan 2 data pasien dengan data id Pasien, Nama, NIK, Jenis Kelamin, Umur, Alamat, Pekerjaan, dan Penyakit. Untuk unique value, saya memilih id Pasien karena bisa digunakan sebagai identitas pasien yang nantinya digunakan untuk pemanggilan data sesuai nomor id nya.
+
+<img width="801" alt="Screenshot 2023-12-11 at 20 39 45" src="https://github.com/hafidhdiya/Capstone-Project-1---Purwadhika/assets/89533026/c345b5a5-e8a0-45e7-b47d-4b6a3bb027cd">
+
+Seluruh program code, saya definisikan dengan function def agar terlihat lebih rapi dan efisien. Terdapat function def tambahan agar memudahkan dalam pemanggilan fungsi yang berulang.
+
+<img width="562" alt="Screenshot 2023-12-11 at 20 40 40" src="https://github.com/hafidhdiya/Capstone-Project-1---Purwadhika/assets/89533026/5324dfb9-355f-41c6-8160-c1a5a7ef2d0d">
 
 Program yang dibuat terdiri dari 7 menu utama, yaitu:
+
+<img width="477" alt="Screenshot 2023-12-11 at 20 40 57" src="https://github.com/hafidhdiya/Capstone-Project-1---Purwadhika/assets/89533026/9bf7e7a3-25ac-4ca0-8d9f-f42b9cd0b4d6">
+
 ### Menu 1 : Menampilkan Data Pasien
+
+<img width="612" alt="Screenshot 2023-12-11 at 20 41 27" src="https://github.com/hafidhdiya/Capstone-Project-1---Purwadhika/assets/89533026/23b2e797-27af-423f-ac8d-9c883ef3548d">
 
    Pada menu ini, terdapat 4 sub menu, yaitu:
    
@@ -47,6 +59,8 @@ Program yang dibuat terdiri dari 7 menu utama, yaitu:
    
 ### Menu 2 : Menambah Data Pasien
 
+<img width="720" alt="Screenshot 2023-12-11 at 20 41 45" src="https://github.com/hafidhdiya/Capstone-Project-1---Purwadhika/assets/89533026/cdb779ad-ff92-4eed-9414-ed3d84017ef8">
+
    Pada menu ini, terdapat 2 sub menu, yaitu:
    
    a. Menambah Data Pasien baru
@@ -58,6 +72,8 @@ Program yang dibuat terdiri dari 7 menu utama, yaitu:
        User memilih menu ini untuk kembali ke menu utama
    
 ### Menu 3 : Memperbarui Data Pasien
+
+<img width="617" alt="Screenshot 2023-12-11 at 20 42 03" src="https://github.com/hafidhdiya/Capstone-Project-1---Purwadhika/assets/89533026/9c65cc6a-1c27-425b-9369-4344606e3d8b">
 
    Pada menu ini, terdapat 2 sub menu, yaitu:
    
@@ -71,6 +87,8 @@ Program yang dibuat terdiri dari 7 menu utama, yaitu:
    
 ### Menu 4 : Menghapus Data Pasien
 
+<img width="618" alt="Screenshot 2023-12-11 at 20 42 20" src="https://github.com/hafidhdiya/Capstone-Project-1---Purwadhika/assets/89533026/e8a29c9b-2ba2-449d-b4fb-646119f35d25">
+
    Pada menu ini terdapat 2 sub menu, yaitu:
    
    a. Menghapus Data Pasien tertentu
@@ -82,6 +100,8 @@ Program yang dibuat terdiri dari 7 menu utama, yaitu:
        User memilih menu ini untuk kembali ke menu utama
    
 ### Menu 5 : Menu Daftar Obat
+
+<img width="596" alt="Screenshot 2023-12-11 at 20 42 37" src="https://github.com/hafidhdiya/Capstone-Project-1---Purwadhika/assets/89533026/e1336ad4-ec60-4e16-b91f-79333a8f4870">
 
    Pada menu ini, terdapat 3 sub menu, yaitu:
    
@@ -98,6 +118,8 @@ Program yang dibuat terdiri dari 7 menu utama, yaitu:
        User memilih menu ini untuk kembali ke menu utama
        
 ### Menu 6 : Menu Pembelian Obat
+
+<img width="584" alt="Screenshot 2023-12-11 at 20 42 49" src="https://github.com/hafidhdiya/Capstone-Project-1---Purwadhika/assets/89533026/abc40c6c-0978-4b69-99fe-226e35da0e4a">
 
    Pada menu ini, terdapat 4 sub menu, yaitu:
    
